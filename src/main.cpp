@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iterator>
 #include <fstream>
 #include <string>
 #include <vector>
@@ -7,21 +6,92 @@
 #include <memory>
 #include <boost/filesystem.hpp>
 #include <cstdio>
+#include <string_view>
+
+#define LOG(s) cout << s << endl
 
 using namespace std;
 
-uint RUN_SIZE = 100;
+struct {
+    int seq_col = 1;
+    int pos_col = 2;
+    char sep = '\t';
+} CONFIG;
+
+uint RUN_SIZE = 200;
 vector<string> temp_files;
 vector<string> runs_files;
 
-bool heap_cmp(const istream_iterator<string> &a, const istream_iterator<string> &b) {
-    return stoi(*a) > stoi(*b);
+struct file_val {
+    file_val (string f) {
+        input = make_shared<ifstream> (f);
+        next_line();
+    }
+
+    bool next_line() {
+        return static_cast<bool>(getline(*input, line));
+    }
+
+    shared_ptr<ifstream> input;
+    string line;
+};
+
+size_t find_nth(const string& src, const char qry, size_t n) {
+    if (n == 0) {
+        return 0;
+    }
+
+    size_t i = src.find(qry);
+
+    int j;
+    for (j = 1; j < n && i != string::npos; j++) {
+        i = src.find(qry, i + 1);
+    }
+
+    if (j == n) {
+        return i;
+    } else {
+        return string::npos;
+    }
+}
+
+string get_seq(const string &s) {
+    size_t start = find_nth(s, CONFIG.sep, CONFIG.seq_col - 1);
+    size_t end = find_nth(s, CONFIG.sep, CONFIG.seq_col);
+    size_t count = end == string::npos ? string::npos : end - start;
+
+    return s.substr(start, count);
+}
+
+unsigned long get_pos(const string &s) {
+    size_t start = find_nth(s, CONFIG.sep, CONFIG.pos_col - 1);
+    size_t end = find_nth(s, CONFIG.sep, CONFIG.pos_col);
+    size_t count = end == string::npos ? string::npos : end - start;
+    return stoi(s.substr(start, count));
+}
+
+bool cmp(const string &a, const string &b) {
+    bool seq_lt = get_seq(a) < get_seq(b);
+    bool seq_eq = get_seq(a) == get_seq(b);
+    bool pos_lt = get_pos(a) < get_pos(b);
+    return seq_lt || (seq_eq && pos_lt);
+}
+
+bool run_cmp(const string &a, const string &b) {
+    return cmp(a, b);
+}
+
+bool heap_cmp(const file_val &a, const file_val &b) {
+    bool seq_lt = get_seq(a.line) > get_seq(b.line);
+    bool seq_eq = get_seq(a.line) == get_seq(b.line);
+    bool pos_lt = get_pos(a.line) > get_pos(b.line);
+    return seq_lt || (seq_eq && pos_lt);
 }
 
 template <typename T> class Heap {
 public:
     void push(T val) {
-        x_.push_back(val);
+        x_.emplace_back(val);
         push_heap(x_.begin(), x_.end(), heap_cmp);
     }
 
@@ -38,10 +108,6 @@ public:
 private:
     vector<T> x_;
 };
-
-bool run_cmp(const string &a, const string &b) {
-    return stoi(a) < stoi(b);
-}
 
 void clean_up_files() {
     for (string const& f : temp_files) {
@@ -61,8 +127,6 @@ void split_runs(ifstream &input) {
 
     string read_buf;
     vector<string> sort_buffer;
-    sort_buffer.reserve(RUN_SIZE);
-    uint counter = 0;
 
     while (getline(input, read_buf)) {
         if (sort_buffer.size() >= RUN_SIZE) {
@@ -80,7 +144,6 @@ void split_runs(ifstream &input) {
         }
 
         sort_buffer.push_back(read_buf);
-        counter++;
     }
 
     if (sort_buffer.size() > 0) {
@@ -103,26 +166,21 @@ void merge_runs() {
         return;
     }
 
-    Heap<istream_iterator<string> > heap;
-    vector<unique_ptr<ifstream> > in_streams;
+    Heap<file_val> heap;
 
     while (runs_files.size() > 0) {
         string f = runs_files.back();
         runs_files.pop_back();
 
-        in_streams.push_back(make_unique<ifstream>(f));
-        heap.push(
-            istream_iterator<string>(*in_streams.back())
-        );
+        heap.push(file_val(f) );
     }
 
     while (heap.size() > 0) {
         auto x = heap.pop();
-        cout << *x << "\n";
+        cout << x.line << "\n";
 
-        auto next = ++x;
-        if (next != istream_iterator<string>()) {
-            heap.push(next);
+        if (x.next_line()) {
+            heap.push(x);
         }
     }
 
@@ -138,45 +196,8 @@ int main(int argc, char* argv[]) {
     input.rdbuf()->pubsetbuf(buffer, length);
     input.open("file.txt");
 
+    cout << "splitting runs..." << "\n";
     split_runs(input);
+    cout << "merging runs..." << "\n";
     merge_runs();
-
-    // char fget_buf[1024];
-    // while (fgets(fget_buf, 1023, open_files.back())) {
-    //     cout << fget_buf;
-    // }
-    // ifstream f1("file1.txt");
-    // ifstream f2("file2.txt");
-    // ifstream f3("file3.txt");
-
-    // istream_iterator<string> is_it1(f1);
-    // istream_iterator<string> is_it2(f2);
-    // istream_iterator<string> is_it3(f3);
-
-    // vector<ValFilePair> heap;
-
-    // heap.push_back(ValFilePair {*is_it1, is_it1++});
-    // heap.push_back(ValFilePair {*is_it2, is_it2++});
-    // heap.push_back(ValFilePair {*is_it3, is_it3++});
-
-    // make_heap(heap.begin(), heap.end(), cmp);
-
-    // while (heap.size() > 0) {
-    //     pop_heap(heap.begin(), heap.end(), cmp);
-    //     auto x = heap.back();
-    //     heap.pop_back();
-    //     cout << x.val << "\n";
-
-    //     auto next = ++x.file_it;
-    //     if (next != istream_iterator<string>()) {
-    //         heap.push_back(ValFilePair {*next, next});
-    //     }
-    //     push_heap(heap.begin(), heap.end(), cmp);
-    // }
-    
-    // sort_heap(heap.begin(), heap.end(), cmp);
-
-    // for (auto const x : heap) {
-    //     cout << x.val << "\n";
-    // }
 }

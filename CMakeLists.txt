@@ -7,8 +7,11 @@ set(CMAKE_BUILD_TYPE Debug)
 find_package(Boost REQUIRED COMPONENTS
              filesystem)
 
-add_executable(external-sort main.cpp)
+add_executable(
+    external-sort
+    src/main.cpp)
 
+include_directories(include)
 target_link_libraries(external-sort Boost::filesystem)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
