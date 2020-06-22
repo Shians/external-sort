@@ -1,1000 +1,1000 @@
-X	2805
-W	279
-O	8667
-U	7133
-B	654
-S	7216
-V	6016
-H	965
-Z	4821
-O	4299
-Y	3704
-U	6526
-R	3942
-S	3250
-E	4319
-K	7847
-Y	2607
-D	8508
-F	2846
-Z	4069
-J	8086
-M	2800
-B	5983
-P	9819
-L	1886
-C	9269
-W	3862
-M	9940
-B	2236
-U	1748
-O	7226
-H	5304
-C	2785
-V	2873
-V	9744
-D	2562
-Q	8987
-W	8557
-J	2045
-G	1875
-O	627
-T	1173
-T	1371
-V	8724
-T	8625
-L	2434
-H	3669
-J	8253
-Z	7284
-H	9764
-G	8312
-V	3186
-V	7479
-J	5610
-Q	421
-Z	6078
-P	3644
-C	3690
-F	1386
-R	7987
-E	5913
-R	254
-W	5615
-Y	4060
-Q	1687
-Y	5514
-D	2988
-R	5900
-U	1768
-C	1746
-X	5621
-C	1751
-X	6529
-B	8936
-Q	5798
-P	6574
-F	7820
-U	5311
-T	3320
-V	2880
-T	7764
-G	7194
-L	4036
-Z	8468
-F	3502
-L	9435
-Z	8463
-D	6826
-C	7829
-S	7936
-J	7954
-J	1099
-Y	8253
-K	5012
-Z	1550
-X	7078
-T	1983
-X	8193
-T	9958
-G	6296
-M	2861
-G	9270
-J	765
-C	959
-R	8085
-Q	5725
-G	6790
-E	343
-W	6851
-M	826
-I	642
-S	2792
-V	9025
-S	9311
-B	7999
-S	5354
-C	8904
-G	9997
-J	7253
-O	3373
-Q	582
-Q	518
-Z	587
-J	7220
-E	2893
-W	6603
-Q	3289
-O	2715
-L	7011
-R	1349
-T	9266
-Y	4316
-L	5069
-A	7053
-N	4707
-O	2091
-R	7785
-A	4577
-U	2676
-J	5890
-Y	9443
-D	2346
-Q	5737
-S	3414
-A	6192
-Z	5
-Y	3711
-N	9001
-A	5787
-W	5468
-P	5389
-B	2631
-O	6461
-C	4142
-I	7012
-B	7749
-W	1914
-K	2017
-J	1678
-M	3812
-M	3281
-M	8884
-N	1804
-K	5465
-V	3375
-P	1443
-Q	511
-H	3069
-F	5808
-K	4222
-U	9767
-T	5749
-I	2939
-R	5598
-B	2153
-H	6232
-A	2333
-M	1334
-I	989
-Z	1719
-G	8229
-B	8959
-E	7447
-A	4648
-V	9667
-B	2496
-K	2385
-P	3878
-C	4275
-N	2653
-C	438
-M	4484
-T	9463
-T	8328
-U	3861
-R	1537
-H	1753
-Y	1352
-G	9654
-S	1795
-H	7131
-E	3430
-B	1706
-X	2568
-Y	7561
-V	787
-U	6419
-M	7360
-B	1912
-H	5396
-Z	3324
-C	6095
-T	8766
-F	8579
-M	4298
-J	7976
-E	1290
-A	5783
-O	9985
-L	6173
-D	3698
-Y	9838
-V	3248
-G	5745
-D	6369
-A	899
-M	400
-H	2283
-D	8651
-V	4332
-H	8825
-W	4101
-L	5797
-B	5826
-G	4544
-I	8587
-R	783
-N	3671
-Y	5961
-O	7539
-O	7667
-T	7451
-R	7518
-S	8941
-C	2009
-C	7310
-D	9918
-L	7216
-Z	5668
-Y	5843
-X	6920
-X	6483
-X	4535
-D	3961
-T	7007
-J	7740
-L	6645
-B	4333
-Z	4049
-B	8530
-W	5908
-D	8623
-Q	4036
-T	5326
-F	6664
-K	7534
-U	364
-Q	4747
-S	110
-E	3699
-J	5268
-U	7036
-R	68
-G	7577
-M	728
-S	4235
-D	4393
-W	2826
-X	394
-R	712
-M	1549
-Q	996
-D	8753
-T	5575
-H	7974
-M	2317
-D	5139
-A	238
-X	4622
-X	485
-L	2680
-V	5469
-Z	5003
-X	1359
-U	9705
-L	2551
-Z	8127
-R	5217
-R	1965
-L	339
-J	7801
-I	5717
-D	7304
-X	8356
-W	313
-O	8194
-Y	9180
-D	2995
-O	2027
-U	5863
-T	9598
-F	1671
-L	4666
-G	1463
-K	1993
-P	4388
-T	9189
-Z	6610
-S	4210
-Y	8578
-S	5915
-E	542
-J	4819
-I	1082
-Q	4937
-H	2667
-E	3055
-F	897
-P	1439
-O	6680
-A	8545
-J	5028
-K	6290
-U	3017
-F	2084
-K	7809
-J	5643
-C	9331
-O	9464
-T	7255
-Y	4051
-W	1187
-K	2290
-V	2059
-U	4105
-R	7798
-A	5562
-C	3820
-D	5261
-X	4683
-T	3084
-W	7950
-Y	9745
-N	7220
-I	3077
-J	7479
-E	236
-B	9395
-N	558
-O	6229
-M	9599
-K	3484
-I	1522
-B	9191
-E	9284
-P	5759
-E	2926
-X	3946
-I	8161
-T	3764
-F	6145
-D	2037
-E	564
-V	1560
-M	2940
-V	4433
-S	1324
-L	5846
-W	325
-S	708
-J	4186
-O	8837
-S	6332
-M	7646
-M	3061
-F	1474
-X	6381
-X	5178
-Q	4616
-Q	3865
-U	3453
-F	5440
-G	4744
-R	3078
-D	1517
-L	7512
-V	8450
-U	7651
-V	1291
-S	3888
-Y	5792
-C	5560
-W	7037
-G	8492
-U	2100
-I	9448
-P	4837
-B	7221
-M	1740
-R	1190
-P	6649
-L	1947
-T	2731
-C	4596
-Y	9045
-G	455
-L	8119
-C	7294
-K	5817
-I	9491
-X	1880
-N	3219
-R	1957
-S	2012
-P	2375
-A	8112
-U	3708
-P	8426
-T	270
-B	8958
-E	3311
-K	6628
-T	5776
-B	8339
-X	2210
-N	1579
-G	5604
-D	8816
-S	2634
-Y	2279
-I	2461
-F	6068
-H	1616
-I	9362
-P	6257
-O	7310
-W	551
-T	3156
-X	743
-P	2684
-X	4242
-P	8690
-U	5877
-I	8397
-C	6204
-N	2578
-V	2969
-V	6799
-Q	4117
-I	8589
-E	1361
-R	8423
-V	6735
-X	735
-G	6626
-Q	3074
-K	515
-S	9794
-I	3749
-A	736
-U	9913
-J	5410
-S	7327
-J	1777
-J	1659
-E	642
-B	5653
-P	2793
-J	6230
-F	4784
-T	1131
-O	3436
-O	4273
-O	6902
-H	8335
-I	337
-K	6946
-C	4003
-F	3817
-L	9593
-I	7253
-C	2046
-W	5130
-K	9351
-H	9255
-I	267
-L	7138
-C	6900
-E	3296
-Q	9894
-F	5834
-Y	5670
-S	3848
-L	5539
-Y	3496
-B	935
-G	8087
-F	3439
-S	1787
-V	9359
-R	3372
-M	2480
-U	88
-J	4537
-B	3534
-R	7996
-B	9622
-J	8483
-T	4349
-T	1097
-U	6982
-D	373
-K	4210
-M	105
-N	8156
-V	6875
-B	2101
-H	9083
-L	5779
-M	2686
-K	7485
-N	3745
-A	8983
-J	6575
-N	7867
-E	563
-E	6708
-N	7778
-X	6569
-A	3213
-N	855
-O	7451
-N	9867
-T	3887
-M	4009
-O	398
-V	6092
-P	6278
-K	3825
-U	6012
-G	4226
-P	1950
-H	1701
-E	3528
-F	5800
-R	8386
-U	5660
-G	8779
-J	9616
-F	1639
-O	8638
-N	6145
-Z	6647
-U	2617
-X	2814
-F	4259
-W	4533
-X	2617
-C	7768
-F	1442
-X	2129
-G	1277
-Q	4821
-U	1727
-M	7618
-V	574
-M	9695
-Y	7461
-Q	4536
-A	9886
-B	1777
-K	2303
-E	149
-T	3849
-E	9341
-N	987
-N	5615
-R	8484
-W	9516
-D	1911
-E	9041
-G	9056
-N	7475
-D	6947
-L	1934
-L	5240
-S	9628
-T	8066
-T	653
-D	5785
-P	5533
-F	3058
-Y	3082
-A	7108
-S	5410
-D	6258
-A	5141
-V	9361
-X	5458
-O	4568
-T	104
-I	29
-C	2370
-K	3050
-I	8067
-D	9078
-Q	5161
-A	4211
-O	888
-P	7606
-G	2826
-R	3471
-P	1190
-B	9655
-O	171
-M	9393
-I	6894
-K	1006
-Z	3811
-O	2227
-T	306
-X	3160
-S	3306
-R	233
-D	1683
-N	4674
-A	6095
-L	2738
-U	8678
-H	4628
-D	6503
-K	6596
-P	5096
-J	1319
-U	3885
-M	9965
-J	9268
-D	4953
-O	9278
-A	3649
-E	5561
-T	9844
-C	5155
-B	2307
-L	5811
-R	1313
-X	1205
-S	6776
-K	7050
-H	9506
-I	4514
-X	9613
-A	7714
-V	5094
-G	3435
-T	9157
-F	3822
-V	5165
-D	4486
-O	5717
-M	4727
-C	8606
-B	8586
-L	9318
-A	3492
-R	6822
-F	688
-U	1804
-W	5225
-P	1443
-S	3094
-C	2727
-V	5645
-E	6593
-K	7321
-Y	1341
-M	3561
-K	2026
-N	8095
-E	2936
-F	7997
-K	8188
-N	4619
-V	5787
-U	9966
-C	8128
-Q	108
-M	1119
-P	6011
-A	2552
-P	9189
-A	7003
-U	1838
-H	652
-W	3657
-P	1370
-L	6357
-H	9548
-U	3574
-X	5677
-H	7646
-M	8188
-Z	5639
-F	4341
-K	6105
-I	5057
-X	8191
-R	7762
-R	6925
-B	3463
-M	6460
-B	7551
-T	1511
-J	6739
-H	6521
-K	1706
-U	6530
-S	1192
-N	7740
-I	8763
-J	6780
-V	5855
-R	1476
-A	4709
-O	5894
-R	9486
-F	5034
-X	7801
-G	5164
-C	5560
-D	6081
-D	5609
-G	225
-I	2576
-E	3851
-W	8147
-X	9395
-E	6587
-C	2004
-J	2557
-N	4485
-V	7735
-C	876
-X	519
-Y	7300
-J	1347
-A	5357
-H	7949
-Z	4746
-G	3092
-P	8103
-O	7799
-M	9102
-A	4563
-X	5937
-U	5968
-L	6028
-W	9522
-W	8972
-D	5366
-P	5188
-M	2304
-X	443
-E	4237
-R	129
-O	5905
-D	8345
-U	62
-D	3957
-S	8724
-W	667
-R	6510
-B	3639
-H	9189
-B	2302
-B	5042
-A	8856
-E	3779
-K	5585
-K	3470
-L	8359
-B	4545
-Z	3011
-K	5719
-W	7974
-H	8668
-R	4174
-G	117
-W	1029
-R	755
-Y	8527
-Q	5926
-O	8603
-O	5904
-X	7781
-O	3263
-D	5180
-M	2074
-L	7291
-X	7861
-Q	6320
-I	1995
-E	1346
-T	2929
-M	5086
-V	5272
-S	8227
-J	1358
-K	3899
-D	9008
-U	931
-I	8131
-Y	7771
-T	8445
-B	7721
-I	2511
-B	5196
-N	5166
-T	9809
-J	1162
-F	422
-P	2905
-T	7422
-N	7610
-A	5892
-L	2270
-S	3226
-M	7782
-P	5130
-B	8591
-T	279
-F	5954
-K	3433
-K	7949
-K	9531
-E	8794
-L	791
-U	3229
-O	4301
-H	1355
-I	840
-S	9711
-W	5142
-L	6570
-M	2706
-P	4076
-H	8679
-W	9446
-K	5844
-O	9151
-V	3159
-V	1119
-C	7833
-J	6332
-K	9298
-O	1361
-Y	5919
-P	5115
-P	6289
-G	9982
-W	9644
-B	8900
-O	4490
-T	8319
-Y	7646
-N	4286
-P	6408
-B	5730
-T	8984
-E	3951
-H	7616
-C	4699
-O	2815
-O	8508
-Y	3804
-D	1280
-J	2179
-G	3649
-O	5321
-H	7195
-S	6035
-Q	7048
-Z	7072
-G	2789
-E	690
-Q	4387
-V	7569
-X	9948
-Y	8869
-G	1360
-G	6513
-N	1336
-S	9734
-V	9209
-G	6735
-Y	4663
-E	2960
-J	5001
-E	2607
-G	3409
-Y	7646
-R	2262
-Y	4149
-U	7214
-T	1898
-N	8527
-C	5548
-Z	9208
-K	4169
-D	8561
-I	7888
-P	9841
-U	5390
-Q	2036
-D	8677
-Z	4215
-M	3059
-O	6908
-N	17
-G	4733
-S	569
-C	5637
-E	6840
-J	8078
-T	2788
-M	8744
-E	8195
-L	8355
-O	9326
-V	3537
-F	9126
-C	8485
-N	8041
-A	5452
-O	8290
-L	5178
-H	1112
-Z	1884
-O	4604
-S	4810
-G	3596
-Y	6325
-E	6802
-D	3334
-R	5919
-K	6244
-E	2465
-K	8775
-W	7153
-O	3181
-P	7586
-S	5579
-L	28
-D	6338
-I	7410
-X	9959
-M	8903
-O	6771
-Z	6941
-N	4549
-G	8272
-H	1407
-O	2808
-U	3276
-Z	7715
-X	5479
-Z	7715
-R	3373
-P	2695
-Q	2947
-L	9012
-D	2980
-G	8429
-B	3832
-F	3693
-X	5951
-D	8660
-Y	842
-A	8891
-X	8928
-S	220
-B	3464
-L	8488
-D	9462
-N	3303
-S	9787
-T	2874
-U	2527
-Q	6416
-M	2572
+foo	X	2805
+foo	W	279
+foo	O	8667
+foo	U	7133
+foo	B	654
+foo	S	7216
+foo	V	6016
+foo	H	965
+foo	Z	4821
+foo	O	4299
+foo	Y	3704
+foo	U	6526
+foo	R	3942
+foo	S	3250
+foo	E	4319
+foo	K	7847
+foo	Y	2607
+foo	D	8508
+foo	F	2846
+foo	Z	4069
+foo	J	8086
+foo	M	2800
+foo	B	5983
+foo	P	9819
+foo	L	1886
+foo	C	9269
+foo	W	3862
+foo	M	9940
+foo	B	2236
+foo	U	1748
+foo	O	7226
+foo	H	5304
+foo	C	2785
+foo	V	2873
+foo	V	9744
+foo	D	2562
+foo	Q	8987
+foo	W	8557
+foo	J	2045
+foo	G	1875
+foo	O	627
+foo	T	1173
+foo	T	1371
+foo	V	8724
+foo	T	8625
+foo	L	2434
+foo	H	3669
+foo	J	8253
+foo	Z	7284
+foo	H	9764
+foo	G	8312
+foo	V	3186
+foo	V	7479
+foo	J	5610
+foo	Q	421
+foo	Z	6078
+foo	P	3644
+foo	C	3690
+foo	F	1386
+foo	R	7987
+foo	E	5913
+foo	R	254
+foo	W	5615
+foo	Y	4060
+foo	Q	1687
+foo	Y	5514
+foo	D	2988
+foo	R	5900
+foo	U	1768
+foo	C	1746
+foo	X	5621
+foo	C	1751
+foo	X	6529
+foo	B	8936
+foo	Q	5798
+foo	P	6574
+foo	F	7820
+foo	U	5311
+foo	T	3320
+foo	V	2880
+foo	T	7764
+foo	G	7194
+foo	L	4036
+foo	Z	8468
+foo	F	3502
+foo	L	9435
+foo	Z	8463
+foo	D	6826
+foo	C	7829
+foo	S	7936
+foo	J	7954
+foo	J	1099
+foo	Y	8253
+foo	K	5012
+foo	Z	1550
+foo	X	7078
+foo	T	1983
+foo	X	8193
+foo	T	9958
+foo	G	6296
+foo	M	2861
+foo	G	9270
+foo	J	765
+foo	C	959
+foo	R	8085
+foo	Q	5725
+foo	G	6790
+foo	E	343
+foo	W	6851
+foo	M	826
+foo	I	642
+foo	S	2792
+foo	V	9025
+foo	S	9311
+foo	B	7999
+foo	S	5354
+foo	C	8904
+foo	G	9997
+foo	J	7253
+foo	O	3373
+foo	Q	582
+foo	Q	518
+foo	Z	587
+foo	J	7220
+foo	E	2893
+foo	W	6603
+foo	Q	3289
+foo	O	2715
+foo	L	7011
+foo	R	1349
+foo	T	9266
+foo	Y	4316
+foo	L	5069
+foo	A	7053
+foo	N	4707
+foo	O	2091
+foo	R	7785
+foo	A	4577
+foo	U	2676
+foo	J	5890
+foo	Y	9443
+foo	D	2346
+foo	Q	5737
+foo	S	3414
+foo	A	6192
+foo	Z	5
+foo	Y	3711
+foo	N	9001
+foo	A	5787
+foo	W	5468
+foo	P	5389
+foo	B	2631
+foo	O	6461
+foo	C	4142
+foo	I	7012
+foo	B	7749
+foo	W	1914
+foo	K	2017
+foo	J	1678
+foo	M	3812
+foo	M	3281
+foo	M	8884
+foo	N	1804
+foo	K	5465
+foo	V	3375
+foo	P	1443
+foo	Q	511
+foo	H	3069
+foo	F	5808
+foo	K	4222
+foo	U	9767
+foo	T	5749
+foo	I	2939
+foo	R	5598
+foo	B	2153
+foo	H	6232
+foo	A	2333
+foo	M	1334
+foo	I	989
+foo	Z	1719
+foo	G	8229
+foo	B	8959
+foo	E	7447
+foo	A	4648
+foo	V	9667
+foo	B	2496
+foo	K	2385
+foo	P	3878
+foo	C	4275
+foo	N	2653
+foo	C	438
+foo	M	4484
+foo	T	9463
+foo	T	8328
+foo	U	3861
+foo	R	1537
+foo	H	1753
+foo	Y	1352
+foo	G	9654
+foo	S	1795
+foo	H	7131
+foo	E	3430
+foo	B	1706
+foo	X	2568
+foo	Y	7561
+foo	V	787
+foo	U	6419
+foo	M	7360
+foo	B	1912
+foo	H	5396
+foo	Z	3324
+foo	C	6095
+foo	T	8766
+foo	F	8579
+foo	M	4298
+foo	J	7976
+foo	E	1290
+foo	A	5783
+foo	O	9985
+foo	L	6173
+foo	D	3698
+foo	Y	9838
+foo	V	3248
+foo	G	5745
+foo	D	6369
+foo	A	899
+foo	M	400
+foo	H	2283
+foo	D	8651
+foo	V	4332
+foo	H	8825
+foo	W	4101
+foo	L	5797
+foo	B	5826
+foo	G	4544
+foo	I	8587
+foo	R	783
+foo	N	3671
+foo	Y	5961
+foo	O	7539
+foo	O	7667
+foo	T	7451
+foo	R	7518
+foo	S	8941
+foo	C	2009
+foo	C	7310
+foo	D	9918
+foo	L	7216
+foo	Z	5668
+foo	Y	5843
+foo	X	6920
+foo	X	6483
+foo	X	4535
+foo	D	3961
+foo	T	7007
+foo	J	7740
+foo	L	6645
+foo	B	4333
+foo	Z	4049
+foo	B	8530
+foo	W	5908
+foo	D	8623
+foo	Q	4036
+foo	T	5326
+foo	F	6664
+foo	K	7534
+foo	U	364
+foo	Q	4747
+foo	S	110
+foo	E	3699
+foo	J	5268
+foo	U	7036
+foo	R	68
+foo	G	7577
+foo	M	728
+foo	S	4235
+foo	D	4393
+foo	W	2826
+foo	X	394
+foo	R	712
+foo	M	1549
+foo	Q	996
+foo	D	8753
+foo	T	5575
+foo	H	7974
+foo	M	2317
+foo	D	5139
+foo	A	238
+foo	X	4622
+foo	X	485
+foo	L	2680
+foo	V	5469
+foo	Z	5003
+foo	X	1359
+foo	U	9705
+foo	L	2551
+foo	Z	8127
+foo	R	5217
+foo	R	1965
+foo	L	339
+foo	J	7801
+foo	I	5717
+foo	D	7304
+foo	X	8356
+foo	W	313
+foo	O	8194
+foo	Y	9180
+foo	D	2995
+foo	O	2027
+foo	U	5863
+foo	T	9598
+foo	F	1671
+foo	L	4666
+foo	G	1463
+foo	K	1993
+foo	P	4388
+foo	T	9189
+foo	Z	6610
+foo	S	4210
+foo	Y	8578
+foo	S	5915
+foo	E	542
+foo	J	4819
+foo	I	1082
+foo	Q	4937
+foo	H	2667
+foo	E	3055
+foo	F	897
+foo	P	1439
+foo	O	6680
+foo	A	8545
+foo	J	5028
+foo	K	6290
+foo	U	3017
+foo	F	2084
+foo	K	7809
+foo	J	5643
+foo	C	9331
+foo	O	9464
+foo	T	7255
+foo	Y	4051
+foo	W	1187
+foo	K	2290
+foo	V	2059
+foo	U	4105
+foo	R	7798
+foo	A	5562
+foo	C	3820
+foo	D	5261
+foo	X	4683
+foo	T	3084
+foo	W	7950
+foo	Y	9745
+foo	N	7220
+foo	I	3077
+foo	J	7479
+foo	E	236
+foo	B	9395
+foo	N	558
+foo	O	6229
+foo	M	9599
+foo	K	3484
+foo	I	1522
+foo	B	9191
+foo	E	9284
+foo	P	5759
+foo	E	2926
+foo	X	3946
+foo	I	8161
+foo	T	3764
+foo	F	6145
+foo	D	2037
+foo	E	564
+foo	V	1560
+foo	M	2940
+foo	V	4433
+foo	S	1324
+foo	L	5846
+foo	W	325
+foo	S	708
+foo	J	4186
+foo	O	8837
+foo	S	6332
+foo	M	7646
+foo	M	3061
+foo	F	1474
+foo	X	6381
+foo	X	5178
+foo	Q	4616
+foo	Q	3865
+foo	U	3453
+foo	F	5440
+foo	G	4744
+foo	R	3078
+foo	D	1517
+foo	L	7512
+foo	V	8450
+foo	U	7651
+foo	V	1291
+foo	S	3888
+foo	Y	5792
+foo	C	5560
+foo	W	7037
+foo	G	8492
+foo	U	2100
+foo	I	9448
+foo	P	4837
+foo	B	7221
+foo	M	1740
+foo	R	1190
+foo	P	6649
+foo	L	1947
+foo	T	2731
+foo	C	4596
+foo	Y	9045
+foo	G	455
+foo	L	8119
+foo	C	7294
+foo	K	5817
+foo	I	9491
+foo	X	1880
+foo	N	3219
+foo	R	1957
+foo	S	2012
+foo	P	2375
+foo	A	8112
+foo	U	3708
+foo	P	8426
+foo	T	270
+foo	B	8958
+foo	E	3311
+foo	K	6628
+foo	T	5776
+foo	B	8339
+foo	X	2210
+foo	N	1579
+foo	G	5604
+foo	D	8816
+foo	S	2634
+foo	Y	2279
+foo	I	2461
+foo	F	6068
+foo	H	1616
+foo	I	9362
+foo	P	6257
+foo	O	7310
+foo	W	551
+foo	T	3156
+foo	X	743
+foo	P	2684
+foo	X	4242
+foo	P	8690
+foo	U	5877
+foo	I	8397
+foo	C	6204
+foo	N	2578
+foo	V	2969
+foo	V	6799
+foo	Q	4117
+foo	I	8589
+foo	E	1361
+foo	R	8423
+foo	V	6735
+foo	X	735
+foo	G	6626
+foo	Q	3074
+foo	K	515
+foo	S	9794
+foo	I	3749
+foo	A	736
+foo	U	9913
+foo	J	5410
+foo	S	7327
+foo	J	1777
+foo	J	1659
+foo	E	642
+foo	B	5653
+foo	P	2793
+foo	J	6230
+foo	F	4784
+foo	T	1131
+foo	O	3436
+foo	O	4273
+foo	O	6902
+foo	H	8335
+foo	I	337
+foo	K	6946
+foo	C	4003
+foo	F	3817
+foo	L	9593
+foo	I	7253
+foo	C	2046
+foo	W	5130
+foo	K	9351
+foo	H	9255
+foo	I	267
+foo	L	7138
+foo	C	6900
+foo	E	3296
+foo	Q	9894
+foo	F	5834
+foo	Y	5670
+foo	S	3848
+foo	L	5539
+foo	Y	3496
+foo	B	935
+foo	G	8087
+foo	F	3439
+foo	S	1787
+foo	V	9359
+foo	R	3372
+foo	M	2480
+foo	U	88
+foo	J	4537
+foo	B	3534
+foo	R	7996
+foo	B	9622
+foo	J	8483
+foo	T	4349
+foo	T	1097
+foo	U	6982
+foo	D	373
+foo	K	4210
+foo	M	105
+foo	N	8156
+foo	V	6875
+foo	B	2101
+foo	H	9083
+foo	L	5779
+foo	M	2686
+foo	K	7485
+foo	N	3745
+foo	A	8983
+foo	J	6575
+foo	N	7867
+foo	E	563
+foo	E	6708
+foo	N	7778
+foo	X	6569
+foo	A	3213
+foo	N	855
+foo	O	7451
+foo	N	9867
+foo	T	3887
+foo	M	4009
+foo	O	398
+foo	V	6092
+foo	P	6278
+foo	K	3825
+foo	U	6012
+foo	G	4226
+foo	P	1950
+foo	H	1701
+foo	E	3528
+foo	F	5800
+foo	R	8386
+foo	U	5660
+foo	G	8779
+foo	J	9616
+foo	F	1639
+foo	O	8638
+foo	N	6145
+foo	Z	6647
+foo	U	2617
+foo	X	2814
+foo	F	4259
+foo	W	4533
+foo	X	2617
+foo	C	7768
+foo	F	1442
+foo	X	2129
+foo	G	1277
+foo	Q	4821
+foo	U	1727
+foo	M	7618
+foo	V	574
+foo	M	9695
+foo	Y	7461
+foo	Q	4536
+foo	A	9886
+foo	B	1777
+foo	K	2303
+foo	E	149
+foo	T	3849
+foo	E	9341
+foo	N	987
+foo	N	5615
+foo	R	8484
+foo	W	9516
+foo	D	1911
+foo	E	9041
+foo	G	9056
+foo	N	7475
+foo	D	6947
+foo	L	1934
+foo	L	5240
+foo	S	9628
+foo	T	8066
+foo	T	653
+foo	D	5785
+foo	P	5533
+foo	F	3058
+foo	Y	3082
+foo	A	7108
+foo	S	5410
+foo	D	6258
+foo	A	5141
+foo	V	9361
+foo	X	5458
+foo	O	4568
+foo	T	104
+foo	I	29
+foo	C	2370
+foo	K	3050
+foo	I	8067
+foo	D	9078
+foo	Q	5161
+foo	A	4211
+foo	O	888
+foo	P	7606
+foo	G	2826
+foo	R	3471
+foo	P	1190
+foo	B	9655
+foo	O	171
+foo	M	9393
+foo	I	6894
+foo	K	1006
+foo	Z	3811
+foo	O	2227
+foo	T	306
+foo	X	3160
+foo	S	3306
+foo	R	233
+foo	D	1683
+foo	N	4674
+foo	A	6095
+foo	L	2738
+foo	U	8678
+foo	H	4628
+foo	D	6503
+foo	K	6596
+foo	P	5096
+foo	J	1319
+foo	U	3885
+foo	M	9965
+foo	J	9268
+foo	D	4953
+foo	O	9278
+foo	A	3649
+foo	E	5561
+foo	T	9844
+foo	C	5155
+foo	B	2307
+foo	L	5811
+foo	R	1313
+foo	X	1205
+foo	S	6776
+foo	K	7050
+foo	H	9506
+foo	I	4514
+foo	X	9613
+foo	A	7714
+foo	V	5094
+foo	G	3435
+foo	T	9157
+foo	F	3822
+foo	V	5165
+foo	D	4486
+foo	O	5717
+foo	M	4727
+foo	C	8606
+foo	B	8586
+foo	L	9318
+foo	A	3492
+foo	R	6822
+foo	F	688
+foo	U	1804
+foo	W	5225
+foo	P	1443
+foo	S	3094
+foo	C	2727
+foo	V	5645
+foo	E	6593
+foo	K	7321
+foo	Y	1341
+foo	M	3561
+foo	K	2026
+foo	N	8095
+foo	E	2936
+foo	F	7997
+foo	K	8188
+foo	N	4619
+foo	V	5787
+foo	U	9966
+foo	C	8128
+foo	Q	108
+foo	M	1119
+foo	P	6011
+foo	A	2552
+foo	P	9189
+foo	A	7003
+foo	U	1838
+foo	H	652
+foo	W	3657
+foo	P	1370
+foo	L	6357
+foo	H	9548
+foo	U	3574
+foo	X	5677
+foo	H	7646
+foo	M	8188
+foo	Z	5639
+foo	F	4341
+foo	K	6105
+foo	I	5057
+foo	X	8191
+foo	R	7762
+foo	R	6925
+foo	B	3463
+foo	M	6460
+foo	B	7551
+foo	T	1511
+foo	J	6739
+foo	H	6521
+foo	K	1706
+foo	U	6530
+foo	S	1192
+foo	N	7740
+foo	I	8763
+foo	J	6780
+foo	V	5855
+foo	R	1476
+foo	A	4709
+foo	O	5894
+foo	R	9486
+foo	F	5034
+foo	X	7801
+foo	G	5164
+foo	C	5560
+foo	D	6081
+foo	D	5609
+foo	G	225
+foo	I	2576
+foo	E	3851
+foo	W	8147
+foo	X	9395
+foo	E	6587
+foo	C	2004
+foo	J	2557
+foo	N	4485
+foo	V	7735
+foo	C	876
+foo	X	519
+foo	Y	7300
+foo	J	1347
+foo	A	5357
+foo	H	7949
+foo	Z	4746
+foo	G	3092
+foo	P	8103
+foo	O	7799
+foo	M	9102
+foo	A	4563
+foo	X	5937
+foo	U	5968
+foo	L	6028
+foo	W	9522
+foo	W	8972
+foo	D	5366
+foo	P	5188
+foo	M	2304
+foo	X	443
+foo	E	4237
+foo	R	129
+foo	O	5905
+foo	D	8345
+foo	U	62
+foo	D	3957
+foo	S	8724
+foo	W	667
+foo	R	6510
+foo	B	3639
+foo	H	9189
+foo	B	2302
+foo	B	5042
+foo	A	8856
+foo	E	3779
+foo	K	5585
+foo	K	3470
+foo	L	8359
+foo	B	4545
+foo	Z	3011
+foo	K	5719
+foo	W	7974
+foo	H	8668
+foo	R	4174
+foo	G	117
+foo	W	1029
+foo	R	755
+foo	Y	8527
+foo	Q	5926
+foo	O	8603
+foo	O	5904
+foo	X	7781
+foo	O	3263
+foo	D	5180
+foo	M	2074
+foo	L	7291
+foo	X	7861
+foo	Q	6320
+foo	I	1995
+foo	E	1346
+foo	T	2929
+foo	M	5086
+foo	V	5272
+foo	S	8227
+foo	J	1358
+foo	K	3899
+foo	D	9008
+foo	U	931
+foo	I	8131
+foo	Y	7771
+foo	T	8445
+foo	B	7721
+foo	I	2511
+foo	B	5196
+foo	N	5166
+foo	T	9809
+foo	J	1162
+foo	F	422
+foo	P	2905
+foo	T	7422
+foo	N	7610
+foo	A	5892
+foo	L	2270
+foo	S	3226
+foo	M	7782
+foo	P	5130
+foo	B	8591
+foo	T	279
+foo	F	5954
+foo	K	3433
+foo	K	7949
+foo	K	9531
+foo	E	8794
+foo	L	791
+foo	U	3229
+foo	O	4301
+foo	H	1355
+foo	I	840
+foo	S	9711
+foo	W	5142
+foo	L	6570
+foo	M	2706
+foo	P	4076
+foo	H	8679
+foo	W	9446
+foo	K	5844
+foo	O	9151
+foo	V	3159
+foo	V	1119
+foo	C	7833
+foo	J	6332
+foo	K	9298
+foo	O	1361
+foo	Y	5919
+foo	P	5115
+foo	P	6289
+foo	G	9982
+foo	W	9644
+foo	B	8900
+foo	O	4490
+foo	T	8319
+foo	Y	7646
+foo	N	4286
+foo	P	6408
+foo	B	5730
+foo	T	8984
+foo	E	3951
+foo	H	7616
+foo	C	4699
+foo	O	2815
+foo	O	8508
+foo	Y	3804
+foo	D	1280
+foo	J	2179
+foo	G	3649
+foo	O	5321
+foo	H	7195
+foo	S	6035
+foo	Q	7048
+foo	Z	7072
+foo	G	2789
+foo	E	690
+foo	Q	4387
+foo	V	7569
+foo	X	9948
+foo	Y	8869
+foo	G	1360
+foo	G	6513
+foo	N	1336
+foo	S	9734
+foo	V	9209
+foo	G	6735
+foo	Y	4663
+foo	E	2960
+foo	J	5001
+foo	E	2607
+foo	G	3409
+foo	Y	7646
+foo	R	2262
+foo	Y	4149
+foo	U	7214
+foo	T	1898
+foo	N	8527
+foo	C	5548
+foo	Z	9208
+foo	K	4169
+foo	D	8561
+foo	I	7888
+foo	P	9841
+foo	U	5390
+foo	Q	2036
+foo	D	8677
+foo	Z	4215
+foo	M	3059
+foo	O	6908
+foo	N	17
+foo	G	4733
+foo	S	569
+foo	C	5637
+foo	E	6840
+foo	J	8078
+foo	T	2788
+foo	M	8744
+foo	E	8195
+foo	L	8355
+foo	O	9326
+foo	V	3537
+foo	F	9126
+foo	C	8485
+foo	N	8041
+foo	A	5452
+foo	O	8290
+foo	L	5178
+foo	H	1112
+foo	Z	1884
+foo	O	4604
+foo	S	4810
+foo	G	3596
+foo	Y	6325
+foo	E	6802
+foo	D	3334
+foo	R	5919
+foo	K	6244
+foo	E	2465
+foo	K	8775
+foo	W	7153
+foo	O	3181
+foo	P	7586
+foo	S	5579
+foo	L	28
+foo	D	6338
+foo	I	7410
+foo	X	9959
+foo	M	8903
+foo	O	6771
+foo	Z	6941
+foo	N	4549
+foo	G	8272
+foo	H	1407
+foo	O	2808
+foo	U	3276
+foo	Z	7715
+foo	X	5479
+foo	Z	7715
+foo	R	3373
+foo	P	2695
+foo	Q	2947
+foo	L	9012
+foo	D	2980
+foo	G	8429
+foo	B	3832
+foo	F	3693
+foo	X	5951
+foo	D	8660
+foo	Y	842
+foo	A	8891
+foo	X	8928
+foo	S	220
+foo	B	3464
+foo	L	8488
+foo	D	9462
+foo	N	3303
+foo	S	9787
+foo	T	2874
+foo	U	2527
+foo	Q	6416
+foo	M	2572
