@@ -8,7 +8,6 @@
 #include <cstdio>
 #include <string_view>
 #include <exception>
-#include <execution>
 
 #define LOG(s) cout << s << endl
 
@@ -155,7 +154,7 @@ void split_runs(ifstream &input) {
             ofstream out_file(out_path);
             temp_files.push_back(out_path);
 
-            sort(execution::par, sort_buffer.begin(), sort_buffer.end(), run_cmp);
+            sort(sort_buffer.begin(), sort_buffer.end(), run_cmp);
             for (auto const& line : sort_buffer) {
                 out_file << line << "\n";
             }
